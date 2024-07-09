@@ -1,0 +1,5 @@
+<resources>
+    <string name="ad_attribution" translatable="false">Ad</string>
+    <string name="button_refresh_ad">Refresh Ad</string>
+    <string name="video_status_text">Video status: </string>
+</resources>
